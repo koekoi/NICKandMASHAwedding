@@ -1,5 +1,9 @@
+body {
+    background-color: rgb(221, 204, 204);
+    font-family: 'Raleway';
+}
+
 h1 {
-font-family: 'Raleway';
 color: lightcoral;
 text-shadow: 4px 4px 4px rgb(230, 181, 181);
 }
@@ -16,7 +20,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    
+  }
   li {
     display: inline;
     padding: 8px;
