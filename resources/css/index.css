@@ -168,3 +168,17 @@ ul {
     top: 1482px;
     left: 699px;
 }
+
+.ACCOMODATION {
+    position: relative;
+    top: 600px;
+    width: 330px;
+    padding-left: 210px;
+}   
+
+#HOTEL {
+    width: 539px;
+    position: absolute;
+    top: 1960px;
+    left: 600px;
+}
